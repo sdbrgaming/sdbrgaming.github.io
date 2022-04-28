@@ -1,0 +1,145 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1164px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 18px auto 0;
+}
+
+.u-section-1 .u-video-1 {
+  width: 570px;
+  height: 321px;
+  margin: 9px 0 0 auto;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
+.u-section-1 .u-video-2 {
+  width: 570px;
+  height: 321px;
+  margin: -320px auto 0 0;
+}
+
+.u-section-1 .embed-responsive-2 {
+  position: absolute;
+}
+
+.u-section-1 .u-video-3 {
+  width: 570px;
+  height: 321px;
+  margin: 30px auto 0 0;
+}
+
+.u-section-1 .embed-responsive-3 {
+  position: absolute;
+}
+
+.u-section-1 .u-video-4 {
+  width: 570px;
+  height: 321px;
+  margin: -321px 0 0 auto;
+}
+
+.u-section-1 .embed-responsive-4 {
+  position: absolute;
+}
+
+.u-section-1 .u-video-5 {
+  width: 570px;
+  height: 321px;
+  margin: 30px 0 0;
+}
+
+.u-section-1 .embed-responsive-5 {
+  position: absolute;
+}
+
+.u-section-1 .u-video-6 {
+  width: 570px;
+  height: 321px;
+  margin: -320px 0 60px auto;
+}
+
+.u-section-1 .embed-responsive-6 {
+  position: absolute;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1096px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 540px;
+    height: 304px;
+  }
+
+  .u-section-1 .u-video-2 {
+    width: 540px;
+    height: 304px;
+    margin-top: -303px;
+  }
+
+  .u-section-1 .u-video-3 {
+    width: 540px;
+    height: 304px;
+  }
+
+  .u-section-1 .u-video-4 {
+    width: 540px;
+    height: 304px;
+    margin-top: -304px;
+  }
+
+  .u-section-1 .u-video-5 {
+    width: 540px;
+    height: 304px;
+  }
+
+  .u-section-1 .u-video-6 {
+    width: 540px;
+    height: 304px;
+    margin-top: -303px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 644px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 340px;
+    height: 191px;
+  }
+
+  .u-section-1 .u-video-2 {
+    width: 340px;
+    height: 191px;
+    margin-top: -190px;
+  }
+
+  .u-section-1 .u-video-3 {
+    width: 340px;
+    height: 191px;
+  }
+
+  .u-section-1 .u-video-4 {
+    width: 340px;
+    height: 191px;
+    margin-top: -191px;
+  }
+
+  .u-section-1 .u-video-5 {
+    width: 340px;
+    height: 191px;
+  }
+
+  .u-section-1 .u-video-6 {
+    width: 340px;
+    height: 191px;
+    margin-top: -190px;
+  }
+}
